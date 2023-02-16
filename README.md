@@ -1,8 +1,14 @@
-# ML Production Template
+# Pet Adoption Speed Prediction
+
+## Introduction
+
+In this project, we aim to develop algorithms to predict the adoptability of pets, based on the pet's listing on PetFinder. The goal is to predict the speed at which a pet is adopted, which is determined by the speed at which all of the pets are adopted if the profile represents a group of pets. The data includes text, tabular, and image data.
+
+The successful algorithms will be adapted into AI tools that guide shelters and rescuers around the world on improving their pet profiles' appeal. This will help reduce animal suffering and euthanization.
 
 ## Codebase
 
-**`notebooks`:** **Explore and visualize your data** 
+**`notebooks`:** **Explore and visualize the data** 
 
 **`tasks`** : **Convenience scripts for running frequent tests and training commands**
 
